@@ -12,7 +12,7 @@ function App() {
         }} className="d-flex flex-wrap  align-content- p-3">
           <div className='square'></div>
           <div className='square'></div>
-          <div className='square'></div>
+  
           <div className='square'></div>
           <div className='square'></div>
           <div className='square'></div>
