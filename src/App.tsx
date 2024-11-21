@@ -13,8 +13,7 @@ function App() {
           <div className='square'></div>
           <div className='square'></div>
   
-          <div className='square'></div>
-          <div className='square'></div>
+          <div className='qa'></div>
           <div className='square'></div>
           <div className='square'></div>
           <div className='square'></div>
